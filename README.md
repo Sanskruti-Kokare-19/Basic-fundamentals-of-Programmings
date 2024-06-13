@@ -3,16 +3,21 @@
 - script.js content the code of Js for operators
 - Which is the basic code practice for javaScript
 - index.html for <script> tag to use the console
-# java OPPS in different files which includes various conepts such as class, constructor, polymerophism, inheritances, packages, abstraction, interfaces, static keyword.
+# Java OPPS in different files which includes various conepts such as class, constructor, polymerophism, inheritances, packages, abstraction, interfaces, static keyword.
 - All concepts of Java are in .java files
+
 i.e oops.java includes
   - class
   - constructor
   - polymerophism
   - abstraction
   - interfaces
-  - static keywords  
+  - static keywords
+
+
 i.e bank.java includes
    - packages
+
+     
 i.e inherti.java includes
   - inheritances
